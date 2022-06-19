@@ -1,0 +1,38 @@
+id: I93A399ED
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T09:09:58.596928'
+last_modified: '2022-06-19T09:09:58.596945'
+parser: null
+source_metadata:
+  title: Hagiography of gNas gsar ba Kun dga legs pai byung gnas (1704–1760); Lamdre
+    Lobshe, vol. cha, title no. 1
+  author: བདག་ཆེན་ངག་དབང་ཀུན་དགའ་བློ་གྲོས།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2013-09-04);
+    unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:རྫོང་སར་ཁམས་བྱེའི་ལྔ་རིག་སློབ་གླིང་། སྡེ་དགེ་རྫོང་སར། (dzkj)
+  - Editorial process:Mathias Fermer (mf), ཀུན་དགའ་རྡོ་རྗེ། (Kathmandu) (kun)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/576
+  bases:
+    c8d9:
+      title: Hagiography of gNas gsar ba Kun dga legs pai byung gnas (1704–1760);
+        Lamdre Lobshe, vol. cha, title no. 1
+      order: 1
+      base_file: c8d9.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
